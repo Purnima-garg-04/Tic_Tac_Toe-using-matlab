@@ -1,4 +1,4 @@
-function tic_tac_toe
+function tic_tac_toe 
     clc; close all;
     global board turn buttons;
     
